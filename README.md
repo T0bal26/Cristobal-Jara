@@ -5,7 +5,7 @@
 
 <h1 align="center">Holii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Cristóbal Jara C. </h1>
 
-Soy estudiante de 6to año de ingenieria civil industrial de la universidad de chile, mi interes son las áreas de Data Science y también el marketing. Por otro lado, me apasionan mucho los deportes sobretodo el futbol y el handball. Este año comence a formar parte del equipo de Tutoria DII del departamento y también me encuentro en mis tiempos libres realizando un trabajo part time.
+I am a sixth-year student of Industrial Civil Engineering at the University of Chile. My interests lie in the areas of Data Science and also Marketing. On the other hand, I am very passionate about sports, especially soccer and handball. This year, I started to be part of the Tutoring Team at the Department of Industrial Engineering, and I also spend my free time doing part-time work.
 
 </div>
 <br>
@@ -27,15 +27,12 @@ Soy estudiante de 6to año de ingenieria civil industrial de la universidad de c
 <br>
 
 
-- Futbol y Handball.
-- Primer semestre como tutor de proyectos en Tutoria DII [aqui](https://www.instagram.com/tutoria.dii?igsh=MTBvaXd3bng2YnpmZw==).
-- Me gusta aprender de ciencia sobretodo de astronomia, como también de historia.
-- Ingeniero Industrial.
-- EAsports FC y Fornite.
+- Industrial Engineer.
+- Futbol and Handball.
+- First semester as a project tutor at Tutoria DII [here](https://www.instagram.com/tutoria.dii?igsh=MTBvaXd3bng2YnpmZw==).
+- I enjoy learning about science, especially astronomy, as well as history.
+- EA Sports FC and Fortnite.
 
-<br>
-<br>
-<br>
 <br>
 
 ## Sill-set 🛠️
