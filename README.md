@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Holii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Cristóbal Jara C. </h1>
+<h1 align="center">Holii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I´m Cristóbal Jara C. </h1>
 
 I am a sixth-year student of Industrial Civil Engineering at the University of Chile. My interests lie in the areas of Data Science and also Marketing. On the other hand, I am very passionate about sports, especially soccer and handball. This year, I started to be part of the Tutoring Team at the Department of Industrial Engineering, and I also spend my free time doing part-time work.
 
@@ -22,7 +22,7 @@ I am a sixth-year student of Industrial Civil Engineering at the University of C
     </a>
 </p>
 
-## Intereses e información
+## Some info & Interests
 
 <br>
 
